@@ -4,4 +4,4 @@ This repository is my Assets folder that recently bugged, and I think it is a pr
 
 I've been Following step-by-step until a moment in the first video that messed it up. The biggest problem is that for some reason the Unity Console does not show me what error I need to solve.
 
-I found some other people having similar issues, then I write it up my discord server. Until now I'm trying to figure it out.
+I found some other people having similar issues, then I write it up in my discord server. Until now I'm trying to figure it out.
